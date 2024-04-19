@@ -3,7 +3,7 @@
 ```
 npx create-next-app@latest
 
-What is your project named? myApp
+What is your project named? frontend-reactjs
 Would you like to use TypeScript? No / Yes
 Would you like to use ESLint? No / Yes
 Would you like to use Tailwind CSS? No / Yes
